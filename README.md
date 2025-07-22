@@ -2,7 +2,7 @@
 
 This project leverages **Apache Zeppelin**, **Spark SQL**, and **Cassandra** to analyze the [MovieLens 100k dataset](https://grouplens.org/datasets/movielens/100k/). The focus is on exploring user behavior, movie preferences, and genre distribution through distributed data processing.
 
-![Movies](https://upload.wikimedia.org/wikipedia/commons/2/20/Movie_Projector_Icon.png)
+![Movies]([https://upload.wikimedia.org/wikipedia/commons/2/20/Movie_Projector_Icon.png](https://www.shutterstock.com/image-vector/vintage-ticket-template-light-background-600nw-2383740055.jpg))
 
 ---
 
